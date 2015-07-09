@@ -5,3 +5,5 @@ see http://vsr.name/siksak.pdf (in Finnish)
 
 The code used for polygon offsetting in the directory windingnum is very
 unreliable.
+
+![ScreenShot](https://raw.github.com/vsr83/PathPlan/master/spiral.png)
